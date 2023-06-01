@@ -6,7 +6,8 @@
 ![Email](https://img.shields.io/badge/-Email-663366?style=for-the-badge&logo=gmail&logoColor=white)
 </a>
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuelgbl&show_icons=true&theme=dracula&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelGBL&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true)
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelGBL&layout=compact&langs_count=16&theme=great-gatsby"/>
 
 ## Tecnologias que eu uso atualmente!
 
@@ -18,3 +19,4 @@
 
 Sou apaixonado por tecnologia, educação e por mudar a vida de pessoas através da programação 💻💙!
 
+![Snake animation](https://github.com/EmmanuelGBL/EmmanuelGBL/blob/output/github-contribution-grid-snake.svg)
